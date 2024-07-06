@@ -1,0 +1,14 @@
+.hero-section {
+    background-image: url('/images/bckImage2.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    text-align: center;
+    padding: 100px 0px;
+    height: 900px;
+}
+
+.btn:hover{
+    background-color: blue;
+    transform: scale(1.1);
+}
